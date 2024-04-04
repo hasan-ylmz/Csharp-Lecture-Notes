@@ -1,0 +1,7 @@
+C:\Users\ACE49\source\repos\Ogrencı Lıst App_1\bin\Debug\Ogrencı Lıst App_1.exe.config
+C:\Users\ACE49\source\repos\Ogrencı Lıst App_1\bin\Debug\Ogrencı Lıst App_1.exe
+C:\Users\ACE49\source\repos\Ogrencı Lıst App_1\bin\Debug\Ogrencı Lıst App_1.pdb
+C:\Users\ACE49\source\repos\Ogrencı Lıst App_1\obj\Debug\Ogrencı Lıst App_1.csproj.AssemblyReference.cache
+C:\Users\ACE49\source\repos\Ogrencı Lıst App_1\obj\Debug\Ogrencı Lıst App_1.csproj.CoreCompileInputs.cache
+C:\Users\ACE49\source\repos\Ogrencı Lıst App_1\obj\Debug\Ogrencı Lıst App_1.exe
+C:\Users\ACE49\source\repos\Ogrencı Lıst App_1\obj\Debug\Ogrencı Lıst App_1.pdb

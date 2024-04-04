@@ -1,0 +1,7 @@
+C:\Users\ACE49\source\repos\systemreader writer\bin\Debug\systemreader writer.exe.config
+C:\Users\ACE49\source\repos\systemreader writer\bin\Debug\systemreader writer.exe
+C:\Users\ACE49\source\repos\systemreader writer\bin\Debug\systemreader writer.pdb
+C:\Users\ACE49\source\repos\systemreader writer\obj\Debug\systemreader writer.csproj.AssemblyReference.cache
+C:\Users\ACE49\source\repos\systemreader writer\obj\Debug\systemreader writer.csproj.CoreCompileInputs.cache
+C:\Users\ACE49\source\repos\systemreader writer\obj\Debug\systemreader writer.exe
+C:\Users\ACE49\source\repos\systemreader writer\obj\Debug\systemreader writer.pdb

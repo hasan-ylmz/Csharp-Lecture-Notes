@@ -1,0 +1,7 @@
+C:\Users\ACE49\source\repos\OOP_1 YZG\bin\Debug\OOP_1 YZG.exe.config
+C:\Users\ACE49\source\repos\OOP_1 YZG\bin\Debug\OOP_1 YZG.exe
+C:\Users\ACE49\source\repos\OOP_1 YZG\bin\Debug\OOP_1 YZG.pdb
+C:\Users\ACE49\source\repos\OOP_1 YZG\obj\Debug\OOP_1 YZG.csproj.AssemblyReference.cache
+C:\Users\ACE49\source\repos\OOP_1 YZG\obj\Debug\OOP_1 YZG.csproj.CoreCompileInputs.cache
+C:\Users\ACE49\source\repos\OOP_1 YZG\obj\Debug\OOP_1 YZG.exe
+C:\Users\ACE49\source\repos\OOP_1 YZG\obj\Debug\OOP_1 YZG.pdb

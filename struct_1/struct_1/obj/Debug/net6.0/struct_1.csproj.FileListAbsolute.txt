@@ -1,0 +1,14 @@
+C:\Users\ACE49\source\repos\struct_1\struct_1\bin\Debug\net6.0\struct_1.exe
+C:\Users\ACE49\source\repos\struct_1\struct_1\bin\Debug\net6.0\struct_1.deps.json
+C:\Users\ACE49\source\repos\struct_1\struct_1\bin\Debug\net6.0\struct_1.runtimeconfig.json
+C:\Users\ACE49\source\repos\struct_1\struct_1\bin\Debug\net6.0\struct_1.dll
+C:\Users\ACE49\source\repos\struct_1\struct_1\bin\Debug\net6.0\struct_1.pdb
+C:\Users\ACE49\source\repos\struct_1\struct_1\obj\Debug\net6.0\struct_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACE49\source\repos\struct_1\struct_1\obj\Debug\net6.0\struct_1.AssemblyInfoInputs.cache
+C:\Users\ACE49\source\repos\struct_1\struct_1\obj\Debug\net6.0\struct_1.AssemblyInfo.cs
+C:\Users\ACE49\source\repos\struct_1\struct_1\obj\Debug\net6.0\struct_1.csproj.CoreCompileInputs.cache
+C:\Users\ACE49\source\repos\struct_1\struct_1\obj\Debug\net6.0\struct_1.dll
+C:\Users\ACE49\source\repos\struct_1\struct_1\obj\Debug\net6.0\refint\struct_1.dll
+C:\Users\ACE49\source\repos\struct_1\struct_1\obj\Debug\net6.0\struct_1.pdb
+C:\Users\ACE49\source\repos\struct_1\struct_1\obj\Debug\net6.0\struct_1.genruntimeconfig.cache
+C:\Users\ACE49\source\repos\struct_1\struct_1\obj\Debug\net6.0\ref\struct_1.dll

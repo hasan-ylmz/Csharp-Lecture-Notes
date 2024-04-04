@@ -1,0 +1,7 @@
+C:\Users\ACE49\source\repos\ConsoleApp1\obj\Debug\Interface Project Basic Template.csproj.AssemblyReference.cache
+C:\Users\ACE49\source\repos\ConsoleApp1\obj\Debug\Interface Project Basic Template.csproj.CoreCompileInputs.cache
+C:\Users\ACE49\source\repos\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\ACE49\source\repos\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\ACE49\source\repos\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\ACE49\source\repos\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\ACE49\source\repos\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

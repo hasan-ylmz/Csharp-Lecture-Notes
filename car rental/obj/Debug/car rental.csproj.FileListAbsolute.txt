@@ -1,0 +1,14 @@
+C:\Users\ACE49\source\repos\car rental\obj\Debug\car rental.csproj.AssemblyReference.cache
+C:\Users\ACE49\source\repos\car rental\obj\Debug\car rental.csproj.CoreCompileInputs.cache
+C:\Users\ACE49\source\repos\car rental\bin\Debug\car rental.exe.config
+C:\Users\ACE49\source\repos\car rental\bin\Debug\car rental.exe
+C:\Users\ACE49\source\repos\car rental\bin\Debug\car rental.pdb
+C:\Users\ACE49\source\repos\car rental\obj\Debug\car rental.exe
+C:\Users\ACE49\source\repos\car rental\obj\Debug\car rental.pdb
+C:\Users\Hasan\Desktop\c# yüklenecekler\car rental\bin\Debug\car rental.exe.config
+C:\Users\Hasan\Desktop\c# yüklenecekler\car rental\bin\Debug\car rental.exe
+C:\Users\Hasan\Desktop\c# yüklenecekler\car rental\bin\Debug\car rental.pdb
+C:\Users\Hasan\Desktop\c# yüklenecekler\car rental\obj\Debug\car rental.csproj.AssemblyReference.cache
+C:\Users\Hasan\Desktop\c# yüklenecekler\car rental\obj\Debug\car rental.csproj.CoreCompileInputs.cache
+C:\Users\Hasan\Desktop\c# yüklenecekler\car rental\obj\Debug\car rental.exe
+C:\Users\Hasan\Desktop\c# yüklenecekler\car rental\obj\Debug\car rental.pdb

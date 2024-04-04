@@ -1,0 +1,7 @@
+C:\Users\ACE49\source\repos\Değer ve Referans Tipler\bin\Debug\Değer ve Referans Tipler.exe.config
+C:\Users\ACE49\source\repos\Değer ve Referans Tipler\bin\Debug\Değer ve Referans Tipler.exe
+C:\Users\ACE49\source\repos\Değer ve Referans Tipler\bin\Debug\Değer ve Referans Tipler.pdb
+C:\Users\ACE49\source\repos\Değer ve Referans Tipler\obj\Debug\Değer ve Referans Tipler.csproj.AssemblyReference.cache
+C:\Users\ACE49\source\repos\Değer ve Referans Tipler\obj\Debug\Değer ve Referans Tipler.csproj.CoreCompileInputs.cache
+C:\Users\ACE49\source\repos\Değer ve Referans Tipler\obj\Debug\Değer ve Referans Tipler.exe
+C:\Users\ACE49\source\repos\Değer ve Referans Tipler\obj\Debug\Değer ve Referans Tipler.pdb

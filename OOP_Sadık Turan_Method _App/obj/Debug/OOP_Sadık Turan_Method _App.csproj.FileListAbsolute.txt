@@ -1,0 +1,2 @@
+C:\Users\ACE49\source\repos\OOP_Sadık Turan_Method _App\obj\Debug\OOP_Sadık Turan_Method _App.csproj.AssemblyReference.cache
+C:\Users\ACE49\source\repos\OOP_Sadık Turan_Method _App\obj\Debug\OOP_Sadık Turan_Method _App.csproj.CoreCompileInputs.cache

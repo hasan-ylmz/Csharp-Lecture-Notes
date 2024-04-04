@@ -1,0 +1,7 @@
+C:\Users\ACE49\source\repos\ED_clean_Code_1\bin\Debug\ED_clean_Code_1.exe.config
+C:\Users\ACE49\source\repos\ED_clean_Code_1\bin\Debug\ED_clean_Code_1.exe
+C:\Users\ACE49\source\repos\ED_clean_Code_1\bin\Debug\ED_clean_Code_1.pdb
+C:\Users\ACE49\source\repos\ED_clean_Code_1\obj\Debug\ED_clean_Code_1.csproj.AssemblyReference.cache
+C:\Users\ACE49\source\repos\ED_clean_Code_1\obj\Debug\ED_clean_Code_1.csproj.CoreCompileInputs.cache
+C:\Users\ACE49\source\repos\ED_clean_Code_1\obj\Debug\ED_clean_Code_1.exe
+C:\Users\ACE49\source\repos\ED_clean_Code_1\obj\Debug\ED_clean_Code_1.pdb
